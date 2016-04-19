@@ -9,7 +9,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 /**
  * UserServiceTest
  *
- * @author: lusizhang
+ * @author: mayuan
  * @time: 2015/8/24 20:02
  */
 public class UserServiceTest extends AbstractTestCase {
